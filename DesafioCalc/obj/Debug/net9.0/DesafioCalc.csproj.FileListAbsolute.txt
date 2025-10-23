@@ -1,0 +1,4 @@
+C:\Users\53581685833\Desktop\BackEndTorloni\DesafioCalc\obj\Debug\net9.0\DesafioCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53581685833\Desktop\BackEndTorloni\DesafioCalc\obj\Debug\net9.0\DesafioCalc.AssemblyInfoInputs.cache
+C:\Users\53581685833\Desktop\BackEndTorloni\DesafioCalc\obj\Debug\net9.0\DesafioCalc.AssemblyInfo.cs
+C:\Users\53581685833\Desktop\BackEndTorloni\DesafioCalc\obj\Debug\net9.0\DesafioCalc.csproj.CoreCompileInputs.cache
