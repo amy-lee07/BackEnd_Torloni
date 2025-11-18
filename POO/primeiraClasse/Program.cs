@@ -63,6 +63,7 @@
 //imports das classes externas
 using System.Net.WebSockets;
 using System.Runtime.CompilerServices;
+using primeiraClasse;
 using PrimeiraClasse;
 
 //string nome = "Amy";
@@ -118,6 +119,33 @@ Console.WriteLine($"moto:{m2.marca}");
 Console.WriteLine($"modelo:{m2.modelo}");
 Console.WriteLine($"cor:{m2.cor}");
 Console.WriteLine($"quantidade de portas:{m2.qtdPortas}");
+Console.WriteLine();
+Console.WriteLine($"-----");
+Console.WriteLine();
+
+/*
+CRIAR UMA CLASSE AVIÃO COM 1 PROPRIEDADE E E UM METODO QUE SEJAM ESPECIFICOS DE UM AVIÃO.
+CRIE E UTILIZE UMA VARIAVEL NA PROGRAM.CS E ADICIONE A MARCA, MODELO, QUANTIDADE DE RODAS
+E A PROPRIEDADE ESPECIFICA DO AVIAO, ALEM, DE CHAMAR OS METODOS LIGAR E TAMBEM O METODO QUE VOCE CRIOU
+NA CLASSE AVIÃO
+*/
+
+avião Airbus avião();
+av.marca = " Airbus";
+av.modelo = " A220";
+av.cor = "cinza";
+av.qtdRodas = 6;
+
+Console.WriteLine();
+Console.WriteLine($"caracteristicas");
+Console.WriteLine();
+
+Console.WriteLine();
+Console.WriteLine("---{ m1.marca}---");
+Console.WriteLine($"moto:{av.marca}");
+Console.WriteLine($"modelo:{av.modelo}");
+Console.WriteLine($"cor:{av.cor}");
+Console.WriteLine($"quantidade de rodas:{av.qtdRodas}");
 Console.WriteLine();
 Console.WriteLine($"-----");
 Console.WriteLine();
