@@ -1,0 +1,5 @@
+C:\Users\53581685833\Desktop\BackEndTorloni\POO\Pilares\Interfaces\ExerciciosInterfaces\obj\Debug\net9.0\ExerciciosInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53581685833\Desktop\BackEndTorloni\POO\Pilares\Interfaces\ExerciciosInterfaces\obj\Debug\net9.0\ExerciciosInterfaces.AssemblyInfoInputs.cache
+C:\Users\53581685833\Desktop\BackEndTorloni\POO\Pilares\Interfaces\ExerciciosInterfaces\obj\Debug\net9.0\ExerciciosInterfaces.AssemblyInfo.cs
+C:\Users\53581685833\Desktop\BackEndTorloni\POO\Pilares\Interfaces\ExerciciosInterfaces\obj\Debug\net9.0\ExerciciosInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\53581685833\Desktop\BackEndTorloni\POO\Pilares\Interfaces\ExerciciosInterfaces\obj\Debug\net9.0\ExerciciosInterfaces.sourcelink.json
